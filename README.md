@@ -73,21 +73,3 @@ Real-time surveillance and object tracking
 Smart security systems
 
 
-pip install numpy opencv-python
-
-How to use?
-Clone the repository
-git clone https://github.com/muhammadshiraz/YOLO-Real-Time-Object-Detection.git
-
-Move to the directory
-cd YOLO-Real-Time-Object-Detection
-
-To view the UK Real-Time Road Detection
-python real_time_yolo_detector1.py
-
-To view the USA Real-Time Road Detection
-python real_time_yolo_detector2.py
-
-To use in real-time on webcam
-python real_time_yolo_webcam.py
-
